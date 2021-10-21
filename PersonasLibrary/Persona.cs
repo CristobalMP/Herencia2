@@ -6,39 +6,38 @@ using System.Threading.Tasks;
 
 namespace PersonasLibrary
 {
-    class Persona
+    public class Persona
     {
-        protected int valor1;
-        protected int valor2;
-        protected int resultado;
-
-        public int Valor1
+        protected string nombre;
+        protected string apellido;
+        
+        public string Nombre
         {
             set
             {
-                valor1 = value;
+                nombre = value;
             }
             get
             {
-                return valor1;
+                return nombre;
             }
         }
 
-        public int Valor2
+        public string Apellido
         {
             set
             {
-                valor2 = value;
+                apellido = value;
             }
             get
             {
-                return valor2;
+                return apellido;
             }
         }
 
         public virtual void Resultado()
         {
-            Console.WriteLine("El resultado es: " + resultado);
+            Console.WriteLine("La persona se llama:: " + nombre +apellido);
         }
     }
 }
