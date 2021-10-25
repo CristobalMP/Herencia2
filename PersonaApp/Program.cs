@@ -1,4 +1,5 @@
 ﻿using System;
+using PersonasLibrary;
 
 namespace PersonaApp
 {
@@ -6,17 +7,29 @@ namespace PersonaApp
     {
         static void Main(string[] args)
         {
-            Suma sum = new Suma();
-            sum.Valor1 = 10;
-            sum.Valor2 = 5;
-            sum.Calcular();
-            sum.Resultado();
+            Alumno alu = new Alumno();
+            alu.Nombre = "Juan";
+            alu.Apellido = "Robles";
+            alu.Cargo();
+            alu.Resultado();
 
-            Resta res = new Resta();
-            res.Valor1 = 10;
-            res.Valor2 = 5;
-            res.Calcular();
-            res.Resultado();
+            Profesor pro = new Profesor();
+            pro.Nombre = "Claudio";
+            pro.Apellido = "Montoya";
+            pro.Cargo();
+            pro.Resultado();
+
+            Administrativo adm = new Administrativo();
+            adm.Nombre = "Javiera";
+            adm.Apellido = "Saez";
+            adm.Cargo();
+            adm.Resultado();
+            
+            Directivo dir = new Directivo();
+            dir.Nombre = "Morelia";
+            dir.Apellido = "Salvo";
+            dir.Cargo();
+            dir.Resultado();
 
 
             Console.ReadKey();

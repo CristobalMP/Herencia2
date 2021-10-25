@@ -10,6 +10,7 @@ namespace PersonasLibrary
     {
         protected string nombre;
         protected string apellido;
+        protected string dos;
         
         public string Nombre
         {
@@ -34,10 +35,10 @@ namespace PersonasLibrary
                 return apellido;
             }
         }
-
+               
         public virtual void Resultado()
         {
-            Console.WriteLine("La persona se llama:: " + nombre +apellido);
+            Console.WriteLine("La persona se llama: " + nombre +apellido);
         }
     }
 }

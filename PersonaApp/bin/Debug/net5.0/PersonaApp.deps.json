@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PersonaApp/1.0.0": {
+        "dependencies": {
+          "PersonasLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PersonaApp.dll": {}
+        }
+      },
+      "PersonasLibrary/1.0.0": {
+        "runtime": {
+          "PersonasLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonaApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonasLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

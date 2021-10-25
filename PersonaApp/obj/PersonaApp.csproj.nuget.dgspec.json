@@ -27,7 +27,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\INGENIERIA 2021\\LPOO 2021-2\\CLASES\\CLASE 6\\Herencia2\\PersonasLibrary\\PersonasLibrary.csproj": {
+                "projectPath": "D:\\INGENIERIA 2021\\LPOO 2021-2\\CLASES\\CLASE 6\\Herencia2\\PersonasLibrary\\PersonasLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -56,6 +60,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "D:\\INGENIERIA 2021\\LPOO 2021-2\\CLASES\\CLASE 6\\Herencia2\\PersonasLibrary\\PersonasLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\INGENIERIA 2021\\LPOO 2021-2\\CLASES\\CLASE 6\\Herencia2\\PersonasLibrary\\PersonasLibrary.csproj",
+        "projectName": "PersonasLibrary",
+        "projectPath": "D:\\INGENIERIA 2021\\LPOO 2021-2\\CLASES\\CLASE 6\\Herencia2\\PersonasLibrary\\PersonasLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

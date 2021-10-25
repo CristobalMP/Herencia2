@@ -1,0 +1,6 @@
+D:\INGENIERIA 2021\LPOO 2021-2\CLASES\CLASE 6\Herencia2\PersonasLibrary\bin\Debug\PersonasLibrary.dll
+D:\INGENIERIA 2021\LPOO 2021-2\CLASES\CLASE 6\Herencia2\PersonasLibrary\bin\Debug\PersonasLibrary.pdb
+D:\INGENIERIA 2021\LPOO 2021-2\CLASES\CLASE 6\Herencia2\PersonasLibrary\obj\Debug\PersonasLibrary.csproj.AssemblyReference.cache
+D:\INGENIERIA 2021\LPOO 2021-2\CLASES\CLASE 6\Herencia2\PersonasLibrary\obj\Debug\PersonasLibrary.csproj.CoreCompileInputs.cache
+D:\INGENIERIA 2021\LPOO 2021-2\CLASES\CLASE 6\Herencia2\PersonasLibrary\obj\Debug\PersonasLibrary.dll
+D:\INGENIERIA 2021\LPOO 2021-2\CLASES\CLASE 6\Herencia2\PersonasLibrary\obj\Debug\PersonasLibrary.pdb
